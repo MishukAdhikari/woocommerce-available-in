@@ -1,2 +1,2 @@
-# woocommrce-available-in
-Make available in feature on every product 
+# woocommerce-available-in
+Make available location feature for every product
